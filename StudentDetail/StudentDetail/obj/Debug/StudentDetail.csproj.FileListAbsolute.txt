@@ -1,0 +1,10 @@
+C:\Users\Anit\Desktop\C# Software Development\StudentDetail\StudentDetail\bin\Debug\StudentDetail.exe.config
+C:\Users\Anit\Desktop\C# Software Development\StudentDetail\StudentDetail\bin\Debug\StudentDetail.exe
+C:\Users\Anit\Desktop\C# Software Development\StudentDetail\StudentDetail\bin\Debug\StudentDetail.pdb
+C:\Users\Anit\Desktop\C# Software Development\StudentDetail\StudentDetail\obj\Debug\StudentDetail.csproj.AssemblyReference.cache
+C:\Users\Anit\Desktop\C# Software Development\StudentDetail\StudentDetail\obj\Debug\StudentDetail.Form1.resources
+C:\Users\Anit\Desktop\C# Software Development\StudentDetail\StudentDetail\obj\Debug\StudentDetail.Properties.Resources.resources
+C:\Users\Anit\Desktop\C# Software Development\StudentDetail\StudentDetail\obj\Debug\StudentDetail.csproj.GenerateResource.cache
+C:\Users\Anit\Desktop\C# Software Development\StudentDetail\StudentDetail\obj\Debug\StudentDetail.csproj.CoreCompileInputs.cache
+C:\Users\Anit\Desktop\C# Software Development\StudentDetail\StudentDetail\obj\Debug\StudentDetail.exe
+C:\Users\Anit\Desktop\C# Software Development\StudentDetail\StudentDetail\obj\Debug\StudentDetail.pdb

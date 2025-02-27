@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Anit\\Desktop\\C# Software Development\\CRUD_Operations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F606CBD9-1247-4DA0-A448-6161D5B0BC24}|CRUD_Operations\\CRUD_Operations.csproj|c:\\users\\anit\\desktop\\c# software development\\crud_operations\\crud_operations\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F606CBD9-1247-4DA0-A448-6161D5B0BC24}|CRUD_Operations\\CRUD_Operations.csproj|solutionrelative:crud_operations\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F606CBD9-1247-4DA0-A448-6161D5B0BC24}|CRUD_Operations\\CRUD_Operations.csproj|c:\\users\\anit\\desktop\\c# software development\\crud_operations\\crud_operations\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F606CBD9-1247-4DA0-A448-6161D5B0BC24}|CRUD_Operations\\CRUD_Operations.csproj|solutionrelative:crud_operations\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Anit\\Desktop\\C# Software Development\\CRUD_Operations\\CRUD_Operations\\Form1.cs",
+              "RelativeDocumentMoniker": "CRUD_Operations\\Form1.cs",
+              "ToolTip": "C:\\Users\\Anit\\Desktop\\C# Software Development\\CRUD_Operations\\CRUD_Operations\\Form1.cs",
+              "RelativeToolTip": "CRUD_Operations\\Form1.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwDsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T05:53:17.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Anit\\Desktop\\C# Software Development\\CRUD_Operations\\CRUD_Operations\\Form1.cs",
+              "RelativeDocumentMoniker": "CRUD_Operations\\Form1.cs",
+              "ToolTip": "C:\\Users\\Anit\\Desktop\\C# Software Development\\CRUD_Operations\\CRUD_Operations\\Form1.cs [Design]",
+              "RelativeToolTip": "CRUD_Operations\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T03:59:15.987Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

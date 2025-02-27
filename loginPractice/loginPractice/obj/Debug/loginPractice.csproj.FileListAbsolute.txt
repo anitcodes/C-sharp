@@ -1,0 +1,12 @@
+C:\Users\Anit\Desktop\C# Software Development\loginPractice\loginPractice\bin\Debug\loginPractice.exe.config
+C:\Users\Anit\Desktop\C# Software Development\loginPractice\loginPractice\bin\Debug\loginPractice.exe
+C:\Users\Anit\Desktop\C# Software Development\loginPractice\loginPractice\bin\Debug\loginPractice.pdb
+C:\Users\Anit\Desktop\C# Software Development\loginPractice\loginPractice\obj\Debug\loginPractice.csproj.AssemblyReference.cache
+C:\Users\Anit\Desktop\C# Software Development\loginPractice\loginPractice\obj\Debug\loginPractice.Form1.resources
+C:\Users\Anit\Desktop\C# Software Development\loginPractice\loginPractice\obj\Debug\loginPractice.Properties.Resources.resources
+C:\Users\Anit\Desktop\C# Software Development\loginPractice\loginPractice\obj\Debug\loginPractice.csproj.GenerateResource.cache
+C:\Users\Anit\Desktop\C# Software Development\loginPractice\loginPractice\obj\Debug\loginPractice.csproj.CoreCompileInputs.cache
+C:\Users\Anit\Desktop\C# Software Development\loginPractice\loginPractice\obj\Debug\loginPractice.exe
+C:\Users\Anit\Desktop\C# Software Development\loginPractice\loginPractice\obj\Debug\loginPractice.pdb
+C:\Users\Anit\Desktop\C# Software Development\loginPractice\loginPractice\obj\Debug\loginPractice.Form2.resources
+C:\Users\Anit\Desktop\C# Software Development\loginPractice\loginPractice\obj\Debug\loginPractice.Form3.resources

@@ -1,0 +1,11 @@
+C:\Users\Anit\Desktop\C# Software Development\LinkLabel\LinkLabel\bin\Debug\LinkLabel.exe.config
+C:\Users\Anit\Desktop\C# Software Development\LinkLabel\LinkLabel\bin\Debug\LinkLabel.exe
+C:\Users\Anit\Desktop\C# Software Development\LinkLabel\LinkLabel\bin\Debug\LinkLabel.pdb
+C:\Users\Anit\Desktop\C# Software Development\LinkLabel\LinkLabel\obj\Debug\LinkLabel.csproj.AssemblyReference.cache
+C:\Users\Anit\Desktop\C# Software Development\LinkLabel\LinkLabel\obj\Debug\LinkLabel.Form1.resources
+C:\Users\Anit\Desktop\C# Software Development\LinkLabel\LinkLabel\obj\Debug\LinkLabel.Properties.Resources.resources
+C:\Users\Anit\Desktop\C# Software Development\LinkLabel\LinkLabel\obj\Debug\LinkLabel.csproj.GenerateResource.cache
+C:\Users\Anit\Desktop\C# Software Development\LinkLabel\LinkLabel\obj\Debug\LinkLabel.csproj.CoreCompileInputs.cache
+C:\Users\Anit\Desktop\C# Software Development\LinkLabel\LinkLabel\obj\Debug\LinkLabel.exe
+C:\Users\Anit\Desktop\C# Software Development\LinkLabel\LinkLabel\obj\Debug\LinkLabel.pdb
+C:\Users\Anit\Desktop\C# Software Development\LinkLabel\LinkLabel\obj\Debug\LinkLabel.Form2.resources

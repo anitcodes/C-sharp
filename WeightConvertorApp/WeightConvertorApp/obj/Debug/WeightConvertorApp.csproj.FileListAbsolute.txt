@@ -1,0 +1,10 @@
+C:\Users\Anit\Desktop\C# Software Development\WeightConvertorApp\WeightConvertorApp\bin\Debug\WeightConvertorApp.exe.config
+C:\Users\Anit\Desktop\C# Software Development\WeightConvertorApp\WeightConvertorApp\bin\Debug\WeightConvertorApp.exe
+C:\Users\Anit\Desktop\C# Software Development\WeightConvertorApp\WeightConvertorApp\bin\Debug\WeightConvertorApp.pdb
+C:\Users\Anit\Desktop\C# Software Development\WeightConvertorApp\WeightConvertorApp\obj\Debug\WeightConvertorApp.csproj.AssemblyReference.cache
+C:\Users\Anit\Desktop\C# Software Development\WeightConvertorApp\WeightConvertorApp\obj\Debug\WeightConvertorApp.Form1.resources
+C:\Users\Anit\Desktop\C# Software Development\WeightConvertorApp\WeightConvertorApp\obj\Debug\WeightConvertorApp.Properties.Resources.resources
+C:\Users\Anit\Desktop\C# Software Development\WeightConvertorApp\WeightConvertorApp\obj\Debug\WeightConvertorApp.csproj.GenerateResource.cache
+C:\Users\Anit\Desktop\C# Software Development\WeightConvertorApp\WeightConvertorApp\obj\Debug\WeightConvertorApp.csproj.CoreCompileInputs.cache
+C:\Users\Anit\Desktop\C# Software Development\WeightConvertorApp\WeightConvertorApp\obj\Debug\WeightConvertorApp.exe
+C:\Users\Anit\Desktop\C# Software Development\WeightConvertorApp\WeightConvertorApp\obj\Debug\WeightConvertorApp.pdb

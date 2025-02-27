@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Anit\\Desktop\\C# Software Development\\CheckBox\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEAE6543-C9DA-477B-9A9F-7865E75E5DB6}|CheckBox\\CheckBox.csproj|c:\\users\\anit\\desktop\\c# software development\\checkbox\\checkbox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEAE6543-C9DA-477B-9A9F-7865E75E5DB6}|CheckBox\\CheckBox.csproj|solutionrelative:checkbox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEAE6543-C9DA-477B-9A9F-7865E75E5DB6}|CheckBox\\CheckBox.csproj|C:\\Users\\Anit\\Desktop\\C# Software Development\\CheckBox\\checkbox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEAE6543-C9DA-477B-9A9F-7865E75E5DB6}|CheckBox\\CheckBox.csproj|solutionrelative:checkbox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Anit\\Desktop\\C# Software Development\\CheckBox\\CheckBox\\Form1.cs",
+              "RelativeDocumentMoniker": "CheckBox\\Form1.cs",
+              "ToolTip": "C:\\Users\\Anit\\Desktop\\C# Software Development\\CheckBox\\CheckBox\\Form1.cs",
+              "RelativeToolTip": "CheckBox\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAnwDwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T11:19:57.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Anit\\Desktop\\C# Software Development\\CheckBox\\CheckBox\\Form1.cs",
+              "RelativeDocumentMoniker": "CheckBox\\Form1.cs",
+              "ToolTip": "C:\\Users\\Anit\\Desktop\\C# Software Development\\CheckBox\\CheckBox\\Form1.cs [Design]",
+              "RelativeToolTip": "CheckBox\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T11:15:35.34Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

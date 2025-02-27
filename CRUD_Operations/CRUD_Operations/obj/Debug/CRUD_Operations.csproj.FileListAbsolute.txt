@@ -1,0 +1,10 @@
+C:\Users\Anit\Desktop\C# Software Development\CRUD_Operations\CRUD_Operations\bin\Debug\CRUD_Operations.exe.config
+C:\Users\Anit\Desktop\C# Software Development\CRUD_Operations\CRUD_Operations\bin\Debug\CRUD_Operations.exe
+C:\Users\Anit\Desktop\C# Software Development\CRUD_Operations\CRUD_Operations\bin\Debug\CRUD_Operations.pdb
+C:\Users\Anit\Desktop\C# Software Development\CRUD_Operations\CRUD_Operations\obj\Debug\CRUD_Operations.csproj.AssemblyReference.cache
+C:\Users\Anit\Desktop\C# Software Development\CRUD_Operations\CRUD_Operations\obj\Debug\CRUD_Operations.Form1.resources
+C:\Users\Anit\Desktop\C# Software Development\CRUD_Operations\CRUD_Operations\obj\Debug\CRUD_Operations.Properties.Resources.resources
+C:\Users\Anit\Desktop\C# Software Development\CRUD_Operations\CRUD_Operations\obj\Debug\CRUD_Operations.csproj.GenerateResource.cache
+C:\Users\Anit\Desktop\C# Software Development\CRUD_Operations\CRUD_Operations\obj\Debug\CRUD_Operations.csproj.CoreCompileInputs.cache
+C:\Users\Anit\Desktop\C# Software Development\CRUD_Operations\CRUD_Operations\obj\Debug\CRUD_Operations.exe
+C:\Users\Anit\Desktop\C# Software Development\CRUD_Operations\CRUD_Operations\obj\Debug\CRUD_Operations.pdb

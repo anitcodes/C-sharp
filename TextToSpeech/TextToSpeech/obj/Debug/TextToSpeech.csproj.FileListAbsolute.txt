@@ -1,0 +1,10 @@
+C:\Users\Anit\Desktop\C# Software Development\TextToSpeech\TextToSpeech\bin\Debug\TextToSpeech.exe.config
+C:\Users\Anit\Desktop\C# Software Development\TextToSpeech\TextToSpeech\bin\Debug\TextToSpeech.exe
+C:\Users\Anit\Desktop\C# Software Development\TextToSpeech\TextToSpeech\bin\Debug\TextToSpeech.pdb
+C:\Users\Anit\Desktop\C# Software Development\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.csproj.AssemblyReference.cache
+C:\Users\Anit\Desktop\C# Software Development\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.Form1.resources
+C:\Users\Anit\Desktop\C# Software Development\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.Properties.Resources.resources
+C:\Users\Anit\Desktop\C# Software Development\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.csproj.GenerateResource.cache
+C:\Users\Anit\Desktop\C# Software Development\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.csproj.CoreCompileInputs.cache
+C:\Users\Anit\Desktop\C# Software Development\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.exe
+C:\Users\Anit\Desktop\C# Software Development\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.pdb

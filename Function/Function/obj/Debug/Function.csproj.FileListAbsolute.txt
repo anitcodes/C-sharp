@@ -1,0 +1,10 @@
+C:\Users\Anit\Desktop\C# Software Development\Function\Function\bin\Debug\Function.exe.config
+C:\Users\Anit\Desktop\C# Software Development\Function\Function\bin\Debug\Function.exe
+C:\Users\Anit\Desktop\C# Software Development\Function\Function\bin\Debug\Function.pdb
+C:\Users\Anit\Desktop\C# Software Development\Function\Function\obj\Debug\Function.csproj.AssemblyReference.cache
+C:\Users\Anit\Desktop\C# Software Development\Function\Function\obj\Debug\Function.Form1.resources
+C:\Users\Anit\Desktop\C# Software Development\Function\Function\obj\Debug\Function.Properties.Resources.resources
+C:\Users\Anit\Desktop\C# Software Development\Function\Function\obj\Debug\Function.csproj.GenerateResource.cache
+C:\Users\Anit\Desktop\C# Software Development\Function\Function\obj\Debug\Function.csproj.CoreCompileInputs.cache
+C:\Users\Anit\Desktop\C# Software Development\Function\Function\obj\Debug\Function.exe
+C:\Users\Anit\Desktop\C# Software Development\Function\Function\obj\Debug\Function.pdb

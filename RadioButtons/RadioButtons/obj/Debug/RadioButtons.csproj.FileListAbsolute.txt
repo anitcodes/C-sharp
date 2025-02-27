@@ -1,0 +1,10 @@
+C:\Users\Anit\Desktop\C# Software Development\RadioButtons\RadioButtons\bin\Debug\RadioButtons.exe.config
+C:\Users\Anit\Desktop\C# Software Development\RadioButtons\RadioButtons\bin\Debug\RadioButtons.exe
+C:\Users\Anit\Desktop\C# Software Development\RadioButtons\RadioButtons\bin\Debug\RadioButtons.pdb
+C:\Users\Anit\Desktop\C# Software Development\RadioButtons\RadioButtons\obj\Debug\RadioButtons.csproj.AssemblyReference.cache
+C:\Users\Anit\Desktop\C# Software Development\RadioButtons\RadioButtons\obj\Debug\RadioButtons.Form1.resources
+C:\Users\Anit\Desktop\C# Software Development\RadioButtons\RadioButtons\obj\Debug\RadioButtons.Properties.Resources.resources
+C:\Users\Anit\Desktop\C# Software Development\RadioButtons\RadioButtons\obj\Debug\RadioButtons.csproj.GenerateResource.cache
+C:\Users\Anit\Desktop\C# Software Development\RadioButtons\RadioButtons\obj\Debug\RadioButtons.csproj.CoreCompileInputs.cache
+C:\Users\Anit\Desktop\C# Software Development\RadioButtons\RadioButtons\obj\Debug\RadioButtons.exe
+C:\Users\Anit\Desktop\C# Software Development\RadioButtons\RadioButtons\obj\Debug\RadioButtons.pdb
